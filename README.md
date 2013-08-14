@@ -1,2 +1,3 @@
-rupy_talk
+rupy 2013 talk
 =========
+What I learned learning programming. 
