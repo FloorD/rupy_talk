@@ -61,6 +61,9 @@ You can't believe how great it feels for your student if they can do something i
 
 #####Don’t use the words “it’s super easy” when it’s really not.
 Developers saying that something is 'super easy' while to you it looks like the hardest thing in the world. I understand it though. It's probably the same with me telling my mum over the phone (while being in a busy tram with eager eavesdroppers) how to make something 'fat' in Word... Funny thing with my mum is that she's actually a vivid user of Twitter (follow her on @toosdreef) and Facebook. At one point I figured that explaining her how to open a link I had sent in an email was similar to crafting a new tweet on Tweetdeck. "Just select the link (she thinks clicking it will hide her email inbox forever), copy it, paste it in a new browser tab like you'd use a new tweet field, and hit enter!" Worked. 
+Database - Excel example  
+
+#####Teach them to stackoverflow
 
 ###The downs
 
@@ -90,7 +93,12 @@ Through Ruby (and programming in general), I have developed a more logical and e
 #####It's not all dorm rooms and cold pizza
 GitHub provides the social component might it otherwise be absent because you're studying by yourself, in the quiet of your bed room. Introducing GitHub as a 'social network for developers' proved to work with the Rails Girls attendees.It's soothing to know there are more people out there.
 
-I hope this - rather personal - post will help you become a better teacher, and a better programmer as a result. 
+#####Gamify ALL the learning
+There's [Ruby Warrior][9], a 'triumphant quest of adventure, love & destiny', created by Christian Schlensker (Art Direction and Game Development), Emelyn Baker (Interface Design), Roshan Choxi (Front-End Development). Special thanks to Ryan Bates for making the original [command-line game][11] that inspired this project.
+
+And [CheckiO][10] for the pythonista's, where - in addition to coding to complete levels and earn badges and points in challenges others created - you can work on your own challenge. 
+Each challenge icludes tests, documentation, and it's all hosted as repo's on GitHub, to keep it open and forkable. CheckiO at its core helps novice coders gain experience, and offer a social aspect to link novice coders with each other and more experienced programmers, by means of code reviews.   
+CheckiO sponsored PyLadies Vienna and hosts hackathons.
 
 Happy teaching!
 
@@ -102,3 +110,6 @@ Happy teaching!
 [6]: http://www.meetup.com/PyLadies-Vienna/
 [7]: http://usersnap.com
 [8]: http://railsgirlssummerofcode.org/
+[9]: https://www.bloc.io/ruby-warrior
+[10]: http://www.checkio.org
+[11]: http://github.com/ryanb/ruby-warrior
